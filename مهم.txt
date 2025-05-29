@@ -1,0 +1,17 @@
+بص عارف انك مش هتفتكر حاجه
+
+اول حاجه حمل kaggle 140k image face real and fake
+https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces
+
+بعد كده هتخش على dataset
+هتحط
+real and fake فيهم عادي جدا
+هيبقى كل فولدر فيه حوالي 50 الف صوره
+
+تمام هتروح لل train.py
+وهتشغله عادي جدا تستناه لغايه ما يتدرب
+
+وكمل بقى شغلك ......
+
+ال chat ai هتلاقي اسمه
+"AI Detect"
