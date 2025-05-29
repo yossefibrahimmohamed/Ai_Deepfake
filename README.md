@@ -52,7 +52,7 @@ this images train the model ``` model/fakevision_model.pt ```
    ```bash
    git clone https://github.com/yourusername/FakeVision.git
    cd FakeVision
-````
+``
 
 2. Create and activate a virtual environment:
 
@@ -102,9 +102,11 @@ this images train the model ``` model/fakevision_model.pt ```
 
 * Loss: CrossEntropyLoss
 
-* Epochs: 20
+* Epochs: 15
 
 * Final Accuracy: **\~75%**
+
+![image](https://github.com/user-attachments/assets/12e164b1-42bc-405d-8128-47541b5dbd72)
 
 ---
 
@@ -129,7 +131,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For collaborations, suggestions, or issues:
 
-📧 [yossefibrahim@example.com](mailto:yossefibrahim@example.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧 [yossefibrahim@example.com](mailto:yossefmohamedsalah2001@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/yossefibrahim2001)
 
 ---
